@@ -9647,8 +9647,8 @@ h4, h5, h6 {
   height: 0;
   top: 50%;
   left: 50%;
-  background: rgba(0, 0, 0, 0.3);
-  border: 2px solid #141414;
+  background: rgba(0, 0, 0, 0.8);
+  padding: 15px;
   opacity: 0;
   transition: .5s;
 }
